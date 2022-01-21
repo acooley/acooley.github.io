@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "EQHXZ8M8AV.com.google.clientsideencryption",
+        "paths": [
+          "/oidc/cse/callback"
+        ]
+      },
+      {
+        "appID": "EQHXZ8M8AV.com.google.clientsideencryption.dev",
+        "paths": [
+          "/oidc/cse/callback"
+        ]
+      }
+    ]
+  }
+}
